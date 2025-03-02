@@ -3,7 +3,7 @@ import os
 
 def vector_creation(file):
     if not os.environ.get("COHERE_API_KEY"):
-        os.environ["COHERE_API_KEY"] = "1oemmq68XtQlDNZvtbT2KieE6HoDPNIWdiI7xn2f"
+        os.environ["COHERE_API_KEY"] = os.environ["COHERE_API_KEY"] 
 
     from langchain_cohere import CohereEmbeddings
 
