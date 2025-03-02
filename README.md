@@ -94,3 +94,5 @@ You have successfully created a Q&A system using Gemini. Customize the system pr
 *   **Persistent Vector Store:** A vector store that stores data on disk or in the cloud, preserving data across application restarts.
 *   **Embeddings:** Numerical representations of text, capturing semantic meaning for efficient similarity searches.
 *   **Cohere:** A company that provides language AI models and tools, including embedding models.
+
+![{2079FBEC-2A1A-42C9-A32B-48C1C01463DB}](https://github.com/user-attachments/assets/e77df05a-2606-4880-b7ce-9ac25695e26a)
