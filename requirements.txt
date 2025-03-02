@@ -1,0 +1,8 @@
+google-genai
+python-dotenv
+langchain-community
+faiss-cpu
+langchain-cohere
+pymupdf
+streamlit
+nest_asyncio
